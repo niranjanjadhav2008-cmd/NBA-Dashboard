@@ -104,9 +104,8 @@ Observe scoring trends through Average Points Per Game (PPG).
 Evaluate the impact of home-court advantage using Home vs Away Win%.
 Perform interactive analysis using slicers and drill-through capabilities.
 Make faster, data-driven decisions through intuitive visualizations.
-
-6. Screenshots :
-
-Screennshot : 
-
 From a business intelligence perspective, the dashboard demonstrates how interactive analytics can simplify complex datasets, improve reporting efficiency, and support informed decision-making through effective data storytelling.
+
+6.Screenshots :
+
+Screenshots : https://github.com/niranjanjadhav2008-cmd/NBA-Dashboard/blob/main/NBA%20Dashboard%20screenshot.png
